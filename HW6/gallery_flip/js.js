@@ -1,0 +1,5 @@
+const gallery = {
+   openedImageEl: null,
+
+   
+}
